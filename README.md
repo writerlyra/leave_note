@@ -1,6 +1,7 @@
 # Leave Note
 
 `leave_note` 是一个给 Cyberboss 使用者的接入包。
+- `Cyberboss` 的项目地址：`https://github.com/WenXiaoWendy/cyberboss`
 
 它解决的问题不是“怎么多发消息”，而是：
 
